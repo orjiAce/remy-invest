@@ -650,6 +650,8 @@ include "./inc/head.php";
 
                         <div class="card-info">
                             <a href="login.php">
+
+
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">1 Bedroom in Burj khalifa</p>
                                 <p class="chakra-card-share css-0">$11.99/share</p>
@@ -698,13 +700,13 @@ include "./inc/head.php";
                              src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                              class="chakra-image css-1h7vu9x">
 
-                        <a href="login.php">
                         <div class="card-info">
+                            <a href="login.php">
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">Costa Blanca, luxury homes</p>
                                 <p class="chakra-card-share css-0">$111.99/share</p>
                             </div>
-                        </div>
+                            </a>
 
                             <div class="card-details">
                                 <svg stroke="#1a202c" fill="none" stroke-width="2" viewBox="0 0 24 24"
