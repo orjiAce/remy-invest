@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+.chakra-card {
+    display: flex;
+    width: 350px;
+    height: 450px;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ddd;
+    justify-content: space-between;
+    border-radius: 25px;
+    padding: 15px;
+    font-family: Inter, sans-serif;
+}
+.chakra-card-tag{
+    z-index: 100;
+    margin-left: -20px;
+    margin-top: 10px;
+    align-self: flex-start;
+    float: left;
+    position: absolute;
+    padding: 0 5px 0 5px;
+    height: 30px;
+    min-width: 65px;
+    background-color: #121c30;
+    border-radius: 8px;
+align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.chakra-card-tag span{
+    margin-left: 5px;
+    color: white;
+    font-size: 14px;
+    font-family: Poppins,sans-serif;
+    font-weight: 400;
+}
+.chakra-image {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.chakra-card__body {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.chakra-card-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #121c30;
+}
+.chakra-card-share {
+    font-size: 14px;
+    font-weight: 400;
+    color: #121c30;
+}
+.chakra-text{
+    font-size: 14px;
+    font-weight: 300;
+    color: #0d0e10;
+}
+.chakra-text.main-text{
+    margin-left: 5px;
+}
+
+.card-info {
+    width: 100%;
+    height: 150px;
+
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+}
+.chakra-text-green {
+    color: #008349
+
+}
+
+.card-info-first {
+    height: 30px;
+    align-items: center;
+
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.card-details {
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    height: 30px;
+
+    width: 100%;
+}
+.chakra-divider{
+    border-top: 1px solid #f7f2ff;
+    width: 100%;
+}
+.card-footer {
+    height: 30px;
+    flex-direction: row;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.css-1t5yoxp {
+    display: grid;
+
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+}

@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Mon, 13 Nov 2023 13:41:15 at https://homezy.webflow.io/homes/home-v1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://homezy.webflow.io/homes/home-v1 -O "/Users/orjijoseph/websites/Home invest" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:41:18	Error: 	"Bad Gateway" (502) after 2 retries at link https://homezy.webflow.io/robots.txt (from primary/primary)
+13:41:50	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://homezy.webflow.io/homes/home-v1)
+13:41:51	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://homezy.webflow.io/homes/home-v1)
+13:41:51	Warning: 	Retry after error 502 (Bad Gateway) at link https://homezy.webflow.io/homes/home-v2 (from https://homezy.webflow.io/homes/home-v1)
+13:42:01	Warning: 	Retry after error 502 () at link https://homezy.webflow.io/homes/home-v2 (from https://homezy.webflow.io/homes/home-v1)
+13:42:01	Error: 	"" (502) after 2 retries at link https://homezy.webflow.io/homes/home-v2 (from https://homezy.webflow.io/homes/home-v1)
+13:45:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=63dccc1ba88f450bf57ed4e1
+13:45:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/64094d3426e7bfef1dcb94fe_Estately Agent - Edwin Martins.webp (from https://homezy.webflow.io/homes/home-v3)
+13:45:04	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/64094d34bd974241984537bd_Estately Agent - Robert Fox.webp (from https://homezy.webflow.io/homes/home-v3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 32 seconds : 53 links scanned, 44 files written (5823086 bytes overall) [4531630 bytes received at 16660 bytes/sec], 1806229 bytes transferred using HTTP compression in 10 files, ratio 26%, 1.8 requests per connection
+(4 errors, 5 warnings, 0 messages)
