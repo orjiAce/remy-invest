@@ -2,7 +2,7 @@
     <div class="navbar-brand-wrap">
         <a href="index.php" class="navbar-brand w-nav-brand">
             <img
-                    src="uploads-ssl.webflow.com/64087d5b4d8daebee9cc0cf2/logo.png"
+                    src="assets/64087d5b4d8daebee9cc0cf2/logo.png"
                     loading="lazy" alt="" class="navbar-brand-image"/></a></div>
     <nav role="navigation" class="navbar-menu w-nav-menu">
         <a href="index.php" aria-current="page"

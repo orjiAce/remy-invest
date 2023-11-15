@@ -624,7 +624,7 @@ include "./inc/head.php";
         <div data-w-id="53d18a6e-08ca-54ee-d582-e1ad34a7e1fe" style="opacity:0" class="heading">
             <div class="heading-title">
                 <h2 class="color-dark-100">Funded properties</h2></div>
-            <div><a href="/properties-v1" class="link-block w-inline-block">
+            <div><a href="properties.php" class="link-block w-inline-block">
                     <div class="text-l-bold color-dark-100">Explore</div>
                     <div class="svg-icon link-block-icon w-embed">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -642,18 +642,19 @@ include "./inc/head.php";
 
                 <div class="chakra-card">
 
-                    <div class="chakra-card__body ">
+                    <div class="chakra-card__body">
 
                         <img alt="COVE"
                              src="https://cribstock.s3.amazonaws.com/m1678552851251cribstock.jpeg"
                              class="chakra-image css-1h7vu9x">
 
                         <div class="card-info">
+                            <a href="login.php">
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">1 Bedroom in Burj khalifa</p>
                                 <p class="chakra-card-share css-0">$11.99/share</p>
                             </div>
-
+                            </a>
 
                             <div class="card-details">
                                 <svg stroke="#1a202c" fill="none" stroke-width="2" viewBox="0 0 24 24"
@@ -662,7 +663,12 @@ include "./inc/head.php";
                                     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
                                     <circle cx="12" cy="10" r="3"></circle>
                                 </svg>
-                                <p class="chakra-text main-text">Beach Pros resort, NC USA</p></div>
+
+                                    <p class="chakra-text main-text">Beach Pros resort, NC USA</p>
+
+
+
+                            </div>
                             <div class="card-details">
                                 <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24"
                                      aria-hidden="true" class="css-1ykfz6g" height="14" width="14"
@@ -681,6 +687,7 @@ include "./inc/head.php";
                                 <p class="chakra-text css-0">Shares sold: 3167</p></div>
                         </div>
                     </div>
+
                 </div>
 
                 <div class="chakra-card">
@@ -691,12 +698,13 @@ include "./inc/head.php";
                              src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                              class="chakra-image css-1h7vu9x">
 
+                        <a href="login.php">
                         <div class="card-info">
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">Costa Blanca, luxury homes</p>
                                 <p class="chakra-card-share css-0">$111.99/share</p>
                             </div>
-
+                        </div>
 
                             <div class="card-details">
                                 <svg stroke="#1a202c" fill="none" stroke-width="2" viewBox="0 0 24 24"
@@ -742,11 +750,12 @@ include "./inc/head.php";
                              class="chakra-image css-1h7vu9x">
 
                         <div class="card-info">
+                            <a href="login.php">
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">Summer House</p>
                                 <p class="chakra-card-share css-0">$90.99/share</p>
                             </div>
-
+                            </a>
 
                             <div class="card-details">
                                 <svg stroke="#1a202c" fill="none" stroke-width="2" viewBox="0 0 24 24"
