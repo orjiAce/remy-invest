@@ -1,5 +1,6 @@
-<!DOCTYPE html><!-- This site was created in Webflow. https://www.webflow.com --><!-- Last Published: Mon May 22 2023 00:22:31 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="homezy.webflow.io" data-wf-page="63f4a022d179893cd50e0dd2" data-wf-site="63dccc1ba88f450bf57ed4e1"
+<!DOCTYPE html>
+
+<html  data-wf-page="63f4a022d179893cd50e0dd2"
       data-wf-status="1">
 <?php
 include "./inc/head.php";
@@ -202,9 +203,9 @@ include "./inc/head.php";
             <div id="w-node-_73507769-cecc-1fb9-f22f-38dac51de7d3-e6d18ec5" class="card-city-v2">
                 <div class="card-city-image-wrap-v2">
                     <img
-                            src="../../uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474abd9742e8ad44dc5a_Estately%20City%20-%20Pasadena%2c%20Oklahoma.webp"
+                            src="https://img.icons8.com/ios-filled/100/41ce8f/weak-financial-growth.png"
                             loading="lazy" alt="Homezy - City" sizes="(max-width: 767px) 100vw, 68px"
-                            srcset="https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474abd9742e8ad44dc5a_Estately%20City%20-%20Pasadena%2C%20Oklahoma-p-500.webp 500w, https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474abd9742e8ad44dc5a_Estately%20City%20-%20Pasadena%2C%20Oklahoma.webp 700w"
+                            srcset="https://img.icons8.com/ios-filled/100/41ce8f/weak-financial-growth.png 500w, https://img.icons8.com/ios-filled/100/41ce8f/weak-financial-growth.png 700w"
                             class="image-full-cover"/></div>
                 <div>
                     <a href="#" class="card-city-name-v2 w-inline-block">
@@ -1432,7 +1433,7 @@ include_once './inc/footer.php'
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=63dccc1ba88f450bf57ed4e1"
         type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
         crossorigin="anonymous"></script>
-<script src="uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/js/webflow.89be3d23c.js"
+<script src="assets/63dccc1ba88f450bf57ed4e1/js/webflow.89be3d23c.js"
         type="text/javascript"></script>
 </body>
 </html>
