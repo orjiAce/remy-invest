@@ -5,14 +5,15 @@
                 <div class="footer-brand-logo">
                     <img
                         style="object-fit: cover"
-                        src="uploads-ssl.webflow.com/64087d5b4d8daebee9cc0cf2/logo.png"
+                        src="assets/64087d5b4d8daebee9cc0cf2/logo.png"
                         loading="lazy" alt="" class="image-full-contain auto-width"/></div>
                 <div class="footer-description max-width-358px">
                     <div class="color-dark-100">
                         Remy Finance is a peer to peer commercial real estate and digital asset trading platform.
                     </div>
                 </div>
-                <div class="footer-socials"><a href="#" class="icon-link _32x32 w-inline-block">
+                <div class="footer-socials">
+                    <a href="#" class="icon-link _32x32 w-inline-block">
                         <div class="svg-icon _16x16 w-embed">
                             <svg width="17" height="17" viewBox="0 0 17 17" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
@@ -61,7 +62,7 @@
                             <a href="privacy.php">Privacy policy</a>
 
                             <a href="#">Careers</a>
-                            <a href="#">Blog</a>
+                            <a href="blog.php">Blog</a>
 
                         </div>
                     </div>
@@ -86,10 +87,11 @@
                     </div>
                     <div class="pages-links-group">
 
-                        <div class="pages-links"><a href="#"> FAQ</a>
+                        <div class="pages-links">
 
-                            <a href="contact-us.php">Help
-                                center</a>
+
+                            <a href="contact-us.php">Contact us
+                                </a>
 
                             <a href="#">FAQ</a></div>
                     </div>

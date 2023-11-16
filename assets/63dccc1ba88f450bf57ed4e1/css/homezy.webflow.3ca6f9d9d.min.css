@@ -2630,6 +2630,7 @@ figcaption {
 }
 
 .text-r-bold {
+    color: #000;
     font-size: 16px;
     font-weight: 700;
     line-height: 20px
@@ -2751,7 +2752,7 @@ figcaption {
 }
 
 .color-dark-100 {
-    color: #121c30
+    color: #000
 }
 
 .color-dark-60 {
@@ -2862,6 +2863,7 @@ figcaption {
     z-index: -1;
     width: 467px;
     height: 100%;
+
     max-height: 528px;
     position: absolute;
     top: auto;
@@ -2873,7 +2875,7 @@ figcaption {
 .hero-v1-illustration-item-1-wrap {
     width: 54.2%;
     position: absolute;
-    background-color: purple;
+
     top: 9.5%;
     bottom: auto;
     left: auto;
@@ -3524,7 +3526,7 @@ figcaption {
     width: 24px;
     height: 24px;
     color: #fff;
-    background-color: #121c30;
+    background-color: #41ce8f;
     border-radius: 50%;
     justify-content: center;
     align-items: center;
@@ -3622,7 +3624,7 @@ figcaption {
     width: 52px;
     height: 52px;
     color: #fff;
-    background-color: #121c30;
+    background-color: #41ce8f;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
@@ -3643,7 +3645,7 @@ figcaption {
     width: 52px;
     height: 52px;
     color: #fff;
-    background-color: #121c30;
+    background-color: #41ce8f;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
@@ -7667,6 +7669,7 @@ figcaption {
     }
 
     .mobile-text-r-bold {
+        color: #000;
         font-size: 16px;
         font-weight: 700;
         line-height: 20px

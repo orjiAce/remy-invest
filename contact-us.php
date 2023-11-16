@@ -22,6 +22,15 @@ include_once './inc/head.php'
                     touch shortly
                 </div>
             </div>
+            <div class="contact-details-wrap">
+                <div class="contact-details-item">
+                    <div class="text-l-medium color-dark-100">United States</div>
+                    <h5 class="color-dark-100">Greenwich Village</h5></div>
+                <div>
+                    <div class="color-dark-100">+1 234 567 890</div>
+                    <div class="color-dark-100">hello@homezy.co</div>
+                </div>
+            </div>
         </div>
         <div id="w-node-_79d976b4-12f7-a5bb-0f4a-35ccbd857e44-8b35052b" data-w-id="79d976b4-12f7-a5bb-0f4a-35ccbd857e44"
              style="opacity:0" class="contact-content-center-wrap">

@@ -19,10 +19,9 @@ include "./inc/head.php";
         <div class="hero-v1-inner-wrap">
             <div class="hero-v1-content-wrap">
                 <div data-w-id="65a36a9c-2a30-35f7-4f5a-70cb5dd48c8a" style="opacity:0" class="hero-v1-title"><h1
-                            class="color-dark-100">Invest in properties at low prices, cash out with higher price
-                        appreciation.</h1></div>
+                            class="color-dark-100">The modern way for you to invest in real estate</h1></div>
                 <div data-w-id="2a135480-6b14-6ca5-f22c-e14d467709f7" style="opacity:0" class="hero-v1-description"><p
-                            class="text-xl">
+                            class="text-xl" style="color: black">
 
                         Build wealth by investing smartly in purchasing property stocks at low prices, and watch their
                         value grow over time due to price appreciation.
@@ -173,7 +172,7 @@ include "./inc/head.php";
                 </div>
                 <div data-w-id="25a259e3-3223-6a25-6301-59c49ec4cd78" style="opacity:0"
                      class="hero-v1-illustration-item-2-wrap"><img
-                            src="https://images.unsplash.com/photo-1557813282-bcd50093e38f?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?q=80&w=2503&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             loading="lazy" width="248" alt="Homezy - Hero Illustration"
                             class="image-full-contain auto-height"/></div>
                 <!-- <div data-w-id="be3ff030-821b-c322-457b-1cc4eae6bd2b" style="opacity:0"
@@ -200,6 +199,7 @@ include "./inc/head.php";
         </div>
         <div data-w-id="a8febecf-4c9d-68d9-c2e5-cf715e1a4516" style="opacity:0"
              class="w-layout-grid explore-cities-grid-v2">
+
             <div id="w-node-_73507769-cecc-1fb9-f22f-38dac51de7d3-e6d18ec5" class="card-city-v2">
                 <div class="card-city-image-wrap-v2">
                     <img
@@ -242,114 +242,45 @@ include "./inc/head.php";
         </div>
         <div data-delay="4000" data-animation="slide" class="slider mobile-cities-slider w-slider" data-autoplay="false"
              data-easing="ease" style="opacity:0" data-hide-arrows="false" data-disable-swipe="false"
-             data-w-id="73507769-cecc-1fb9-f22f-38dac51de815" data-autoplay-limit="0" data-nav-spacing="3"
+             data-w-id="a8febecf-4c9d-68d9-c2e5-cf715e1a4516"  data-autoplay-limit="0" data-nav-spacing="3"
              data-duration="500" data-infinite="false">
             <div class="slider-mask w-slider-mask">
                 <div class="w-slide">
                     <div class="card-city-v2">
-                        <div class="card-city-image-wrap-v2"><img
-                                    src="../../uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474abd9742e8ad44dc5a_Estately%20City%20-%20Pasadena%2c%20Oklahoma.webp"
+                        <div class="card-city-image-wrap-v2">
+                            <img
+                                    src="https://img.icons8.com/ios-filled/100/41ce8f/weak-financial-growth.png"
                                     loading="lazy" alt="Homezy - City" sizes="(max-width: 767px) 68px, 100vw"
-                                    srcset="https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474abd9742e8ad44dc5a_Estately%20City%20-%20Pasadena%2C%20Oklahoma-p-500.webp 500w, https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474abd9742e8ad44dc5a_Estately%20City%20-%20Pasadena%2C%20Oklahoma.webp 700w"
+                                    srcset="https://img.icons8.com/ios-filled/100/41ce8f/weak-financial-growth.png 500w, https://img.icons8.com/ios-filled/100/41ce8f/weak-financial-growth.png 700w"
                                     class="image-full-cover"/></div>
-                        <div><a href="#" class="card-city-name-v2 w-inline-block"><h5 class="color-dark-100">Hugo,
-                                    Oklahoma</h5></a>
-                            <div class="card-city-description-v2">
-                                <div class="svg-icon _24x24 color-dark-100 w-embed">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                         xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M2 22H22" stroke="currentColor" stroke-width="1.5"
-                                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                        <path d="M2.9502 22L3.00019 9.96999C3.00019 9.35999 3.2902 8.78004 3.7702 8.40004L10.7702 2.95003C11.4902 2.39003 12.5002 2.39003 13.2302 2.95003L20.2302 8.39003C20.7202 8.77003 21.0002 9.34999 21.0002 9.96999V22"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M13 17H11C10.17 17 9.5 17.67 9.5 18.5V22H14.5V18.5C14.5 17.67 13.83 17 13 17Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M9.5 13.75H7.5C6.95 13.75 6.5 13.3 6.5 12.75V11.25C6.5 10.7 6.95 10.25 7.5 10.25H9.5C10.05 10.25 10.5 10.7 10.5 11.25V12.75C10.5 13.3 10.05 13.75 9.5 13.75Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M16.5 13.75H14.5C13.95 13.75 13.5 13.3 13.5 12.75V11.25C13.5 10.7 13.95 10.25 14.5 10.25H16.5C17.05 10.25 17.5 10.7 17.5 11.25V12.75C17.5 13.3 17.05 13.75 16.5 13.75Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M18.9998 7L18.9698 4H14.5698" stroke="currentColor" stroke-width="1.5"
-                                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                    </svg>
-                                </div>
-                                <div class="text-l card-category-name">100+ listings</div>
-                            </div>
+                        <div><a href="#" class="card-city-name-v2 w-inline-block"><h5 class="color-dark-100">Buy shares to be a co-investor</h5></a>
+
                         </div>
                     </div>
                 </div>
                 <div class="w-slide">
                     <div class="card-city-v2">
                         <div class="card-city-image-wrap-v2"><img
-                                    src="../../uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474a7fd40506a8ea4ee7_Estately%20City%20-%20Lafayette%2c%20California.webp"
+                                    src="https://img.icons8.com/fluency/96/money-bag.png"
                                     loading="lazy" alt="Homezy - City" sizes="(max-width: 767px) 68px, 100vw"
-                                    srcset="https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474a7fd40506a8ea4ee7_Estately%20City%20-%20Lafayette%2C%20California-p-500.webp 500w, https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474a7fd40506a8ea4ee7_Estately%20City%20-%20Lafayette%2C%20California.webp 701w"
+                                    srcset="https://img.icons8.com/fluency/96/money-bag.png 500w, https://img.icons8.com/fluency/96/money-bag.png 701w"
                                     class="image-full-cover"/></div>
-                        <div><a href="#" class="card-city-name-v2 w-inline-block"><h5 class="color-dark-100">Lafayette,
-                                    California</h5></a>
-                            <div class="card-city-description-v2">
-                                <div class="svg-icon _24x24 color-dark-100 w-embed">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                         xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M2 22H22" stroke="currentColor" stroke-width="1.5"
-                                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                        <path d="M2.9502 22L3.00019 9.96999C3.00019 9.35999 3.2902 8.78004 3.7702 8.40004L10.7702 2.95003C11.4902 2.39003 12.5002 2.39003 13.2302 2.95003L20.2302 8.39003C20.7202 8.77003 21.0002 9.34999 21.0002 9.96999V22"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M13 17H11C10.17 17 9.5 17.67 9.5 18.5V22H14.5V18.5C14.5 17.67 13.83 17 13 17Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M9.5 13.75H7.5C6.95 13.75 6.5 13.3 6.5 12.75V11.25C6.5 10.7 6.95 10.25 7.5 10.25H9.5C10.05 10.25 10.5 10.7 10.5 11.25V12.75C10.5 13.3 10.05 13.75 9.5 13.75Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M16.5 13.75H14.5C13.95 13.75 13.5 13.3 13.5 12.75V11.25C13.5 10.7 13.95 10.25 14.5 10.25H16.5C17.05 10.25 17.5 10.7 17.5 11.25V12.75C17.5 13.3 17.05 13.75 16.5 13.75Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M18.9998 7L18.9698 4H14.5698" stroke="currentColor" stroke-width="1.5"
-                                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                    </svg>
-                                </div>
-                                <div class="text-l card-category-name">100+ listings</div>
-                            </div>
+                        <div><a href="#" class="card-city-name-v2 w-inline-block"><h5 class="color-dark-100">Enjoy
+                                    Flexibility</h5></a>
+
                         </div>
                     </div>
                 </div>
                 <div class="w-slide">
                     <div class="card-city-v2">
                         <div class="card-city-image-wrap-v2"><img
-                                    src="../../uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474adf7cb86d6497b16b_Estately%20City%20-%20New%20York.webp"
+                                    src="https://img.icons8.com/fluency/96/000000/economic-improvement.png"
                                     loading="lazy" alt="Homezy - City" sizes="(max-width: 767px) 68px, 100vw"
-                                    srcset="https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474adf7cb86d6497b16b_Estately%20City%20-%20New%20York-p-500.webp 500w, https://uploads-ssl.webflow.com/63dccc1ba88f450bf57ed4e1/6409474adf7cb86d6497b16b_Estately%20City%20-%20New%20York.webp 701w"
+                                    srcset="https://img.icons8.com/fluency/96/000000/economic-improvement.png 500w, https://img.icons8.com/fluency/96/000000/economic-improvement.png 701w"
                                     class="image-full-cover"/></div>
-                        <div><a href="#" class="card-city-name-v2 w-inline-block"><h5 class="color-dark-100">Hounslow,
-                                    London</h5></a>
-                            <div class="card-city-description-v2">
-                                <div class="svg-icon _24x24 color-dark-100 w-embed">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                         xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M2 22H22" stroke="currentColor" stroke-width="1.5"
-                                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                        <path d="M2.9502 22L3.00019 9.96999C3.00019 9.35999 3.2902 8.78004 3.7702 8.40004L10.7702 2.95003C11.4902 2.39003 12.5002 2.39003 13.2302 2.95003L20.2302 8.39003C20.7202 8.77003 21.0002 9.34999 21.0002 9.96999V22"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M13 17H11C10.17 17 9.5 17.67 9.5 18.5V22H14.5V18.5C14.5 17.67 13.83 17 13 17Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M9.5 13.75H7.5C6.95 13.75 6.5 13.3 6.5 12.75V11.25C6.5 10.7 6.95 10.25 7.5 10.25H9.5C10.05 10.25 10.5 10.7 10.5 11.25V12.75C10.5 13.3 10.05 13.75 9.5 13.75Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M16.5 13.75H14.5C13.95 13.75 13.5 13.3 13.5 12.75V11.25C13.5 10.7 13.95 10.25 14.5 10.25H16.5C17.05 10.25 17.5 10.7 17.5 11.25V12.75C17.5 13.3 17.05 13.75 16.5 13.75Z"
-                                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
-                                              stroke-linejoin="round"/>
-                                        <path d="M18.9998 7L18.9698 4H14.5698" stroke="currentColor" stroke-width="1.5"
-                                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                    </svg>
-                                </div>
-                                <div class="text-l card-category-name">100+ listings</div>
-                            </div>
+                        <div><a href="#" class="card-city-name-v2 w-inline-block"><h5 class="color-dark-100">
+                                    Earn up to 25% cashflow yearly</h5></a>
+
                         </div>
                     </div>
                 </div>
@@ -500,6 +431,17 @@ include "./inc/head.php";
                         in our membership club, with rewards starting from only AED 500 invested
                     </div>
                 </div>
+
+                <div data-w-id="c1ffe3ca-b29a-4ee9-737f-5c134bbeddc1" class="benefits-illustration-wrap">
+                    <div class="box-image-border-radius">
+                        <div class="box-ratio-1-1"><img
+                                    src="https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                                    loading="lazy" alt="Homezy - Illustration"
+                                    sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 92vw, (max-width: 1439px) 41vw, 530px"
+                                    srcset="https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 500w, https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 530w"
+                                    class="image-full-absolute-cover"/></div>
+                    </div>
+                </div>
             </div>
             <div class="w-layout-grid benefits-grid vertical-stretch">
                 <div id="w-node-b60374e3-fa5c-e2c7-57ec-43ddeeff68da-0ba9238d"
@@ -644,12 +586,13 @@ include "./inc/head.php";
 
                     <div class="chakra-card__body">
 
+                        <div class="img-hover-zoom">
                         <img alt="COVE"
                              src="https://cribstock.s3.amazonaws.com/m1678552851251cribstock.jpeg"
                              class="chakra-image css-1h7vu9x">
-
+                        </div>
                         <div class="card-info">
-                            <a href="login.php">
+                            <a href="property.php">
 
 
                             <div class="card-info-first">
@@ -695,13 +638,13 @@ include "./inc/head.php";
                 <div class="chakra-card">
 
                     <div class="chakra-card__body ">
-
+                        <div class="img-hover-zoom">
                         <img alt="COVE"
                              src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                              class="chakra-image css-1h7vu9x">
-
+                        </div>
                         <div class="card-info">
-                            <a href="login.php">
+                            <a href="property.php">
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">Costa Blanca, luxury homes</p>
                                 <p class="chakra-card-share css-0">$111.99/share</p>
@@ -746,13 +689,13 @@ include "./inc/head.php";
                         <span>NEW</span>
                     </div>
                     <div class="chakra-card__body ">
-
+                        <div class="img-hover-zoom">
                         <img alt="COVE"
                              src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                              class="chakra-image css-1h7vu9x">
-
+                        </div>
                         <div class="card-info">
-                            <a href="login.php">
+                            <a href="property.php">
                             <div class="card-info-first">
                                 <p class="chakra-card-title css-ly0rhp">Summer House</p>
                                 <p class="chakra-card-share css-0">$90.99/share</p>
@@ -899,14 +842,14 @@ include "./inc/head.php";
     </div>
 </div>
 
-<div class="section">
+<div class="section" style="background-color: #f9f9f9">
     <div class="container w-container">
         <div class="benefits-flex-between-wrap align-items-center">
             <div class="benefits-heading-with-review">
                 <div data-w-id="0117c9fc-4e7e-47d8-beb0-7a45bbcae0ba" class="heading as-content">
                     <div class="heading-title"><h2 class="color-dark-100">Real estate investing made easy</h2></div>
                     <div>
-                        <div class="text-l">90% of the worlds millionaires made their fortunes through real estate, but
+                        <div class="text-l" style="color:#000;">90% of the worlds millionaires made their fortunes through real estate, but
                             it’s highly inaccessible, illiquid, and complicated - that’s where we come in!
                         </div>
                     </div>
@@ -916,7 +859,7 @@ include "./inc/head.php";
                 <div data-w-id="36a511c3-587d-5b12-196d-d43fe5584d23"
                      class="review-wrap tablet-hidden">
                     <div>
-                        <div>
+                        <div style="color:#000;">
                             You can purchase shares in the properties that make sense for you, no matter where you are
                             in the world. All investor funds are held in a segregated account, which is used to create
                             an SPV (holding company) in the DIFC to purchase each property (100% owned by you and the
@@ -1026,7 +969,7 @@ include "./inc/head.php";
 <div class="section">
     <div class="container w-container">
         <div data-w-id="2d62f7f4-baf2-0763-8f1d-097836197d70" style="opacity:0" class="heading">
-            <div class="heading-title"><h2 class="color-dark-100">Real estate investing made easy</h2></div>
+            <div class="heading-title"><h2 class="color-dark-100">Properties ownership and earning</h2></div>
 
         </div>
         <div data-w-id="3072ee37-c547-cbb6-a661-c3a2c1f60df7" style="opacity:0" class="w-dyn-list">
