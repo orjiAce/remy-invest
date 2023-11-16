@@ -74,8 +74,8 @@
                     </div>
                     <div class="pages-links-group">
 
-                        <div class="pages-links"><a href="#">Property Stocks</a><a
-                                href="#">Portfolio Tracker</a>
+                        <div class="pages-links"><a href="login.php">Portfolio tracker</a><a
+                                href="#">Disclaimer</a>
                         </div>
                     </div>
                 </div>
